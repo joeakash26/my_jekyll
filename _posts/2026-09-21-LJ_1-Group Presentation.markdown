@@ -10,5 +10,5 @@ A few days ago, my friends Priyanshu, Pranav, Thesh Bharath, and I gave a presen
 
 In my team reflection part, I told the audience about the "Zero Trust Policy" and shared the action plan. I told everyone to stop clicking suspicious links and gave them the 1930 cybercrime helpline number to stay safe. It felt really good when everyone clapped after I finished speaking. Our teamwork was super successful, and it is a very happy memory for me!
 
-![Presentation]({{ site.baseurl }}/assets/images/first slide.png)
+![Presentation]({{ site.baseurl }}/assets/images/first-slide.png)
 
